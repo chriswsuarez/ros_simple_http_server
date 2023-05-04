@@ -1,5 +1,5 @@
 # simple_http_server_ros
-Very very simple implementation of python's simple http server to be launched via roslaunch
+Very very simple implementation of python's simple http server to be launched via roslaunch. Utilizes python3
 
 ## Usage
 
