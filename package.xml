@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>simple_http_server_ros</name>
+  <version>0.1</version>
+  <description>Very very simple implementation of python's simple http server to be launched via roslaunch </description>
+
+  <maintainer email="chriswsuarez@utexas.edu">Chris Suarez</maintainer>
+
+  <license>Proprietary</license>
+
+  <author email="chriswsuarez@utexas.edu">Chris Suarez</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>

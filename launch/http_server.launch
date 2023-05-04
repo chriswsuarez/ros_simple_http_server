@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<launch>
+
+  <arg name="port" default="4343"/>
+  <arg name="directory" default="$(find simple_http_server_ros)"/>
+
+  <node name="http_server" pkg="simple_http_server_ros" type="http_server.sh" args="$(arg port) $(arg directory)" output="screen"/>
+</launch>
